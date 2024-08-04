@@ -4,3 +4,44 @@
     margin: auto;
     padding: 1rem;
 }
+.profile {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e1dfdf;
+}
+.profile .intro .detail {
+    color: #2b2b2b;
+}
+.img {
+    margin-right: 10px;
+}
+.img img{
+    width: 280px;
+}
+.intro {
+    font-size: 20px
+}
+.profile-sec {
+    margin-bottom: 20px;
+}
+.wrap-container .project-info {
+    display: flex;
+}
+.wrap-container .project-info .company-info {
+    width: 240px;
+    border-right: 1px solid #e1dfdf;
+}
+.wrap-container .project-info .company {
+    font-weight: 500;
+    font-size: 20px;
+    color: #2b2b2b;
+}
+.wrap-container .project-info .info {
+    padding-top:50px;
+    font-size: 15px;
+    color: #4b4b4b;
+}
+.wrap-container .project-info .period {
+    color: #7d7a7a;
+}
+
